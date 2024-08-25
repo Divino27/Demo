@@ -1,0 +1,17 @@
+public class PrintingCode {
+    public static void main(String[] args) {
+        String s= "Katy Virtual School";
+
+        if( s.equals("Katy Virtual School") )
+{
+    System.out.println("Opening file: C:\\Files\\KatyVirtualSchool.txt");
+}
+else
+{
+    System.out.println("Opening file: C:\\Files\\KatyHighSchool.txt");
+}
+
+    }
+
+}
+ 
